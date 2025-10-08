@@ -1,0 +1,25 @@
+Info: 155 plugins loaded.
+Processing started. Please wait. This may take a few minutes...
+
+--------------------------------------------------------------------------------------
+iLEAPP v1.18.6: iLEAPP Logs, Events, and Properties Parser
+Objective: Triage iOS Full System Extractions.
+By: Alexis Brignoni | @AlexisBrignoni | abrignoni.com
+By: Yogesh Khatri   | @SwiftForensics | swiftforensics.com
+Building files listing...
+File listing complete - 3 files
+Artifact categories to parse: 155
+File/Directory selected: \\?\C:\Users\Kate\AppData\Local\Temp\Autopsy\hands2_20250928_151334\Temp\iLeapp\fs_1
+
+--------------------------------------------------------------------------------------
+
+Processes completed.
+Processing time = 00:00:00
+Processing time (wall)= 00:00:00
+
+Report generation started.
+shutil reported an error. Maybe due to recursive directory copying.
+_elements folder seems fine. Probably nothing to worry about
+Report generation Completed.
+
+Report location: C:\Users\Kate\OneDrive - Auburn University\Desktop\Digital Forensics\Hands on Activity\Hands on 1\hands2\ModuleOutput\iLeapp\2025-09-28 15-14-19 CDT\iLEAPP_Reports_2025-09-28_Sunday_151421

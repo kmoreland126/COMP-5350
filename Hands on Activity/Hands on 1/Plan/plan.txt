@@ -1,0 +1,38 @@
+Operation: Nightfall
+Objective: Extract $5 million from Central Bank's secure vault.
+
+Team: 
+- Shadow1 (Leader)
+- Ghost (Recon and Network Access)
+
+Date of Operation: Friday Night, September 30, 2024
+Time: 02:00 AM - 04:00 AM
+
+---
+
+Step 1: Initial Access
+
+- Exploit the outdated firmware on the bank's main security cameras. A buffer overflow vulnerability (CVE-2023-1456) allows us to gain root access to the camera's control system. This will disable the cameras for a 10-minute window, enough time for us to enter the building undetected.
+
+- Ghost, you need to be onsite to execute this. Use the wireless access point outside the bank’s north entrance to connect to the internal network.
+
+Step 2: Breach Internal Network
+
+- Once inside, use the credentials from the accountant that we phished last week, it will give you access to his admin workstation.
+
+- Credentials: His compromised admin account (user: j.smith@centralbank.com, password: John123456!). Ghost, ensure all access logs are wiped immediately after use.
+
+
+Step 3: Access the Financial Systems
+
+- Use the bank’s secure terminal to access the financial systems. Deploy our script, to transfer funds. Transfer amounts to multiple offshore accounts in sums not exceeding $500,000 each to avoid triggering the bank’s automated fraud detection systems.
+
+Step 4: Exit Strategy
+
+- I will maintain surveillance remotely, monitoring police frequencies. Once the funds are transferred, exit through the staff entrance using the cloned RFID badge.
+
+- Meet me on September 28 at 11:45 PM, I left the address encoded in the address.txt file. Ensure all tools are wiped clean of prints and data. Destroy any incriminating evidence.
+
+
+Remember, timing is everything. We execute this flawlessly, and we're set for life.
+

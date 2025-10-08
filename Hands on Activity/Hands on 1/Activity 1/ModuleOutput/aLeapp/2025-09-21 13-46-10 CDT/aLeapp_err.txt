@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "aleapp.py", line 206, in <module>
+  File "aleapp.py", line 90, in main
+  File "aleapp.py", line 198, in crunch_artifacts
+  File "scripts\report.py", line 333, in generate_report
+  File "shutil.py", line 557, in copytree
+  File "shutil.py", line 513, in _copytree
+shutil.Error: [('C:\\Users\\Kate\\AppData\\Local\\Temp\\_MEI212442\\scripts\\MDB-Free_4.13.0\\css\\addons\\jquery.zmd.hierarchical-display.min.css', 'C:\\Users\\Kate\\OneDrive - Auburn University\\Desktop\\Digital Forensics\\Hands on Activity\\Hands on 1\\Activity 1\\ModuleOutput\\aLeapp\\2025-09-21 13-46-10 CDT\\ALEAPP_Reports_2025-09-21_Sunday_134611\\_elements\\MDB-Free_4.13.0\\css\\addons\\jquery.zmd.hierarchical-display.min.css', "[Errno 2] No such file or directory: 'C:\\\\Users\\\\Kate\\\\OneDrive - Auburn University\\\\Desktop\\\\Digital Forensics\\\\Hands on Activity\\\\Hands on 1\\\\Activity 1\\\\ModuleOutput\\\\aLeapp\\\\2025-09-21 13-46-10 CDT\\\\ALEAPP_Reports_2025-09-21_Sunday_134611\\\\_elements\\\\MDB-Free_4.13.0\\\\css\\\\addons\\\\jquery.zmd.hierarchical-display.min.css'"), ('C:\\Users\\Kate\\AppData\\Local\\Temp\\_MEI212442\\scripts\\MDB-Free_4.13.0\\js\\addons\\jquery.zmd.hierarchical-display.min.js', 'C:\\Users\\Kate\\OneDrive - Auburn University\\Desktop\\Digital Forensics\\Hands on Activity\\Hands on 1\\Activity 1\\ModuleOutput\\aLeapp\\2025-09-21 13-46-10 CDT\\ALEAPP_Reports_2025-09-21_Sunday_134611\\_elements\\MDB-Free_4.13.0\\js\\addons\\jquery.zmd.hierarchical-display.min.js', "[Errno 2] No such file or directory: 'C:\\\\Users\\\\Kate\\\\OneDrive - Auburn University\\\\Desktop\\\\Digital Forensics\\\\Hands on Activity\\\\Hands on 1\\\\Activity 1\\\\ModuleOutput\\\\aLeapp\\\\2025-09-21 13-46-10 CDT\\\\ALEAPP_Reports_2025-09-21_Sunday_134611\\\\_elements\\\\MDB-Free_4.13.0\\\\js\\\\addons\\\\jquery.zmd.hierarchical-display.min.js'")]
+[4916] Failed to execute script aleapp
